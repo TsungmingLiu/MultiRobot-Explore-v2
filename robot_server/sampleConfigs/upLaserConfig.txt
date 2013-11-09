@@ -1,0 +1,1 @@
+-cl   -tilt 15   -laserToRobotTranslationX 252   -laserToRobotTranslationY 0   -laserToRobotTranslationZ 134   -laserDegrees 180   -laserIncrement half
